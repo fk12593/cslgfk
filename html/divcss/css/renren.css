@@ -1,0 +1,98 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+img{border: 0px;}
+body{text-align: center;font-family: "SimSun";font-size: 12px;}
+
+/*······················top····························*/
+#mainTitle{width: 100%;height: 74px;background-color: #2d74b1;margin: 0 0 0 0;line-height: 74px;}
+#navigation-wrapper{width: 980px;height: 72px;margin: auto;}
+#logo2{width: 222px;height: 74px; background-image: url("renrenImages/logo_v6.png");float: left;background-repeat: no-repeat;cursor: pointer;}
+#nav-body{width: 758px;height: 74px;float: left;}
+#LTitleStyle{width: 434px;height: 74px;float: left;text-align: left; padding: 0 0 0 36px; font-size: 26px;color: #fff;font-weight: bold;font-family: "SimSun";}
+#RTitleStyle{width: 280px;height: 74px;float: right;}
+.zhuceyanse{font-size: 12px;color: #fff;padding: 0 5px 0 5px;margin: 25px 0 25px 0; display: block;float: right;}
+.gengduo{text-align: left; width: 52px;height: 24px;line-height: 24px;background-image: url("renrenImages/icon_new2.png");background-position: 25px 8px;background-repeat: no-repeat;}
+.geiwomen{width: 92px;height: 24px;line-height: 24px;}
+.zhuce{width: 44px;height: 24px;line-height: 24px;}
+/*······················top  end·······················*/
+
+/*···················zhenggwen·························*/
+#full-page{width: 100%;height: 696px;}
+#zhengwen{width: 980px;height: 696px; margin: auto;}
+#LeftCon{width: 220px;height: 696px;float: left;background-color: #ebf3fa;border: 1px solid #d4d4d4;text-shadow:0 0px 5px rgb(255,255,255); }
+#loginForm{width: 190px;height: 165px;padding: 35px 15px 25px 15px;}
+.regnow{width: 190px;height: 38px; cursor: pointer;line-height: 38px;}
+.bgImg1{background-image: url("renrenImages/btn.png");background-position: 0 -38px;background-repeat: no-repeat;}
+.bgImg2{background-image: url("renrenImages/student-enter.png");background-repeat: no-repeat;}
+#login_corp{width: 190px;height: 73px;padding: 30px 15px 0 15px;}
+.wenben{width: 190px;height: 36px;border: 1px solid #ccc;border-radius: 3px;background-color: #fff;margin: 0 0 15px 0;}
+#user{width: 25px;height: 25px;float: left;margin: 5px 0 5px 5px; background-image: url("renrenImages/icon_new2.png");background-position: 6px -86px;background-repeat: no-repeat;float: left;}
+.huise{color: #888;}
+#mpu{display: block; width: 150px;height: 36px;float:right;border: 0px;*line-height: 36px;}
+#wrdprass{width: 25px;height: 25px;float: left;margin: 5px 0 5px 5px; background-image: url("renrenImages/icon_new2.png");background-position: 6px -114px;background-repeat: no-repeat;float: left;}
+#mmkuang{display: block; width: 150px;height: 36px;float:right;border: 0px;*line-height: 36px;}
+#checkbox{width: 190px;height: 27px;margin: 5px 0 5px 0;line-height: 27px;text-align: left;}
+#wangjimima{float: right;}
+#xczddl{float: left;}
+#rrlogin{width: 190px;height: 35px;margin: 3px 0 0 0;padding: 0 0 3px 0;background-image: url("renrenImages/btn.png");background-repeat: no-repeat;background-position: 0 0;}
+
+
+
+.qita{padding: 1px 0 1px 20px;font-size: 12px;float: left;font-family: "Tahoma";}
+
+#icoimg1{display: block;width: 24px;height: 18px;background-image: url("renrenImages/icon_new2.png");background-position: 0 -292px;background-repeat: no-repeat;}
+#icoimg2{display: block;width: 24px;height: 18px;margin: 0 0 0 16px; background-image: url("renrenImages/icon_new2.png");background-position: 0 -323px;background-repeat: no-repeat;}
+#icoimg3{display: block;width: 30px;height: 18px;margin: 0 0 0 16px; background-image: url("renrenImages/icon_new2.png");background-position: 0 -382px;background-repeat: no-repeat;}
+#icoimg4{display: block;width: 30px;height: 18px;background-image: url("renrenImages/icon_new2.png");background-position: 0 -416px;background-repeat: no-repeat;}
+#msn360ty{width: 200px;height: 22px;margin: auto;}
+.dtleft{padding:0 0 15px 0 ;text-align: left;}
+.waijia{width: 190px;height: 38px;padding: 17px 0 15px 0;margin:0px 15px 0px 15px;}
+
+#RightCon{width: 658px;height: 696px;float: left;margin: 32px 0 0 35px;}
+#ad100000000061{width: 658px;height: 280px;background-image: url("renrenImages/advM.png");background-repeat: no-repeat;cursor: pointer;}
+.intro-phone{width: 660px;height: 315px;margin: 20px 0 10px 0;}
+.more-intro{width: 658px;height: 36px;margin: 0 0 3px 0;background-color: #f1f6f9;cursor: pointer;line-height: 36px;background-image: url("renrenImages/ico.png");background-position: 418px -28px;background-repeat: no-repeat;}
+.more-intro:hover{background-color:#ebf3fa; }
+#mobile{width: 267px;height: 307px;background-image: url("renrenImages/phone-show.jpg");float: left;}
+#mobileIntro{width: 383px;height: 306px; float: right;}
+#header-title{margin: 50px 0 0 0;width: 383px;height: 90px;}
+#follow-area{width: 380px;height: 120px;margin: 16px 0 0 0;border-bottom: 1px solid #cee1ee;}
+#Android{display: block;float: left; width: 143px;height: 40px;margin: 0 12px 0 0;background-image: url("renrenImages/four-btn.jpg");background-position: 0 0;}
+#Iphone{display: block;float: left; width: 143px;height: 40px;background-image: url("renrenImages/four-btn.jpg");background-position: -154px 0;}
+#gdkhd{width: 380px;height: 20px;margin: 20px 0 0 0;font-size: 12px;}
+#AndIph{width: 380px;height: 40px;}
+#window{display: block;text-align: left; float: left; width: 100px;height: 20px;padding: 0 0 0 20px; background-image: url("renrenImages/win-sym.jpg");background-position: 0 -22px;background-repeat: no-repeat;}
+#symbian{display: block;float: left; width: 45px;height: 20px;padding: 0 0 0 20px; background-image: url("renrenImages/win-sym.jpg");background-position: 0 2px;background-repeat: no-repeat;}
+#more-client{width: 72px;height: 16px; float: left;font-size: 12px;text-align: left;}
+#dianjizheli{ display: block;width: 638px;height: 16px; text-align: center;}
+.dianjicichu{color: #005eac;}
+#more-download{width: 383px;height: 16px;margin: 13px 0 0 0;font-size: 12px;text-align: left;}
+#erweima{width: 77px;height: 88px; background-image: url("renrenImages/two-di-code.jpg");background-repeat: no-repeat;float: left;}
+#kehuduan{float: left;}
+#big-title{width: 296px;height: 33px;font-size: 22px;text-align: left;font-family: "Microsoft YaHei";margin: 0 0 0 10px;}
+#small-title{width: 296px;height: 38px;font-size: 12px;text-align: left;margin: 0 0 0 10px;font-family: "Microsoft YaHei"}
+.xiahuaxian{color: #005eac;}
+.xiahuaxian:hover{text-decoration: underline;}
+
+
+/*···················zhenggwen end·····················*/
+
+
+/*·····················footer··························*/
+#footer{width: 100%;height: 191px;margin: 20px 0 0 0;}
+#site-footer{width: 980px;height: 180px;padding: 10px 0 0 0;margin: auto;border-top: 1px solid #cee1ee;}
+#main{width: 980px;height: 18px;line-height: 18px;}
+#haoes{width: 964px;height: 64px;padding: 8px 8px 8px 8px;margin: 15px auto;font-size: 12px;font-family: "MingLiU";}
+.sit{color: #999;line-height: 18px;margin: 0 4px 0 4px;}
+.youpiao{display: block;float: right;}
+#lft{font-family: "Tahoma";font-size: 12px;float: left;}
+.ahuise{color: #888;}
+.ahuise:hover{text-decoration: underline;}
+#pic11{display: block;width: 136px;float: left; height: 24px;padding: 0 0 0 10px; background-image: url("renrenImages/bljubao.gif");background-repeat: no-repeat;}
+#pic12{display: block;width: 136px;float: left; height: 24px;padding: 0 0 0 10px; background-image: url("renrenImages/c_2.jpg");background-repeat: no-repeat;}
+#pic13{display: block;width: 136px;float: left; height: 24px;padding: 0 0 0 10px;  background-image: url("renrenImages/c_3.jpg");background-repeat: no-repeat;}
+#wenminbanwang{width:420px;height: 16px; float: left;}
+#juzhong{margin: 5px 0 0 70px;}
+#xiangxia{margin: 5px 0 0 0 ;}
+.dot{font-family: "Tahoma";color: #999;line-height: 18px;margin: 0 4px 0 4px;}
+/*·····················footer end······················*/
